@@ -1,0 +1,32 @@
+commit c007a20160e65b3bb529f5ee6a9cede8788a73ca
+Merge: ea957d8 0ff2daf
+Author: kawtarazel <kawtar.azeloualidine-etu@etu.univh2c.ma>
+Date:   Sun Nov 24 21:03:34 2024 +0100
+
+    Résolution des conflits
+
+commit ea957d871ff285dee0810a6ba672b95ddf10a7ce
+Author: Azeloualidine Kawtar <azeloualidinekaoutar2003@gmail.com>
+Date:   Sun Nov 24 20:34:55 2024 +0100
+
+    Add Task1 folder with README.md
+
+commit 0ff2daf16efe6ebe872ea0f754fc5f822f57ea10
+Author: K_9919 <kawtar.azeloualidine-etu@etu.univh2c.ma>
+Date:   Sun Nov 24 20:22:40 2024 +0100
+
+    Delete task1/Readme.md
+    
+    file deleted
+
+commit 451fde0319a722da9fd2fa286688904e66db7af6
+Author: K_9919 <kawtar.azeloualidine-etu@etu.univh2c.ma>
+Date:   Sun Nov 24 20:15:07 2024 +0100
+
+    Create Readme.md
+
+commit aa8fc1e9d42934ef818d2ba4a108aa60163584a4
+Author: kawtarazel <kawtar.azeloualidine-etu@etu.univh2c.ma>
+Date:   Wed Nov 20 13:37:36 2024 +0100
+
+    Create README.md
